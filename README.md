@@ -1,5 +1,4 @@
 # Nuxt Minimal Starter
-# just a change to the file
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
