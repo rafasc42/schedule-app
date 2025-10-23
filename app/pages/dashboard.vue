@@ -8,10 +8,12 @@
           </svg>
         </button>
     </div>
-    <div class="bg-red-500 w-15">
-      <div>
-        <p>this is the schedules section</p>
-      </div>
+    <div class="flex flex-col items-center w-screen py-8">
+      <Appointment />
+      <Appointment />
+      <Appointment />
+      <Appointment />
+      <Appointment />
     </div>
   </div>
 </template>
